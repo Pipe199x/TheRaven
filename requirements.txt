@@ -1,0 +1,10 @@
+spacy
+pandas
+matplotlib
+wordcloud
+pillow
+numpy
+nltk
+webdriver-manager
+selenium
+seaborn
